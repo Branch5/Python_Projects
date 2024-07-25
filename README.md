@@ -2,7 +2,7 @@
 
 This is the first time I'm posting projects/code on the internet.
 This is a way to show my progress and share my learning journey with the world.
-I made these beginner projects in hopes of bettering my Python fundamentals and solidify be base knowledge about the language.
+I made these beginner projects in hopes of bettering my Python fundamentals and solidify my base knowledge about the language.
 
 These five Projects include:
 
